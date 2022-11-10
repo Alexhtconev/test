@@ -25,4 +25,5 @@
     background-color: #30A7CC; 
     color: white;
     margin: 0;
+    overflow: hidden;
 }
