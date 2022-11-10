@@ -2,7 +2,7 @@
     display: flex;
     width: 300px;
     min-height: 38px;
-    outline: 1px solid #30A7CC;
+    border: 1px solid #30A7CC;
     border-radius: 5px;
     margin-left: 0;
     margin-right: 0;
