@@ -15,10 +15,13 @@
     color: #30A7CC;
     background-color: white;
     width: 50%;
+}
+
+.netto button, .brutto button {
     height: 100%;
 }
+
 .btn-active {
     background-color: #30A7CC; 
     color: white;
-    min-height: 38px;
 }
