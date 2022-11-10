@@ -20,5 +20,5 @@
 .btn-active {
     background-color: #30A7CC; 
     color: white;
-    height: 100%;
+    min-height: 38px;
 }
