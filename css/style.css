@@ -1,0 +1,22 @@
+.buttons {
+    display: flex;
+    width: 300px;
+    min-height: 38px;
+    outline: 1px solid #30A7CC;
+    border-radius: 5px;
+    margin-left: 0;
+    margin-right: 0;
+}
+.netto, .brutto {
+    border-radius: 5px;
+    border: none;
+    font-weight: 500;
+    font-size: 14px;
+    color: #30A7CC;
+    background-color: white;
+    width: 50%;
+}
+.btn-active {
+    background-color: #30A7CC; 
+    color: white;
+}
